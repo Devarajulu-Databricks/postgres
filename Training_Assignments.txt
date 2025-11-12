@@ -1,0 +1,16 @@
+Assignment 1: Role-Based Access Control (RBAC)
+Objective: Implement role-based access control (RBAC) to manage database access.
+Instructions:
+Define Roles:
+Assign Privileges:
+Implement:
+Submission:
+Create at least five distinct roles (e.g., SuperAdmin, Admin, Doctor, Nurse, Patient).
+Define and assign appropriate privileges to each role. For example:
+SuperAdmin should have full access to all tables and schema modifications.
+Admin should have full access to all tables except sensitive patient data.
+Doctor should have access to patient data, appointments, and prescriptions but not to billing information.
+Nurse should have access to patient records and appointments but limited access to prescriptions.
+Patient should only have access to their own data and appointments.
+Write SQL scripts to create these roles and assign the specified privileges.
+Submit the SQL scripts along with a document explaining the role definitions and privileges.
