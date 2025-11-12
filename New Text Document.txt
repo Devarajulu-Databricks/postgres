@@ -1,0 +1,19 @@
+GenAI
+devarajulu.menni@gmail.com
+Genai1234
+
+ACID
+JSON
+Extensibility
+MVCC
+INDEXING
+full text searching
+table creation
+Insert data
+select 
+update
+
+-- 
+In PostgreSQL, enabling and disabling constraints and indexes directly is not supported as it is in some other database systems. 
+However, you can achieve similar functionality by dropping and recreating the constraint and Index when needed. 
+
